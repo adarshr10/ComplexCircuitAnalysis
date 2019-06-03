@@ -1,3 +1,6 @@
 Testing out git for the first time
 
 Adding a new line in this text editor to see if git will recognize that I'm changing the document.
+
+
+Add a new line the branch to check for merge conflicts
